@@ -14,3 +14,5 @@ md mean mark down syntax
 3. optional
 
 # Wotech-first
+widows + . shows emoji 
+
