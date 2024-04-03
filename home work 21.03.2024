@@ -1,0 +1,22 @@
+class Main {
+
+    public static void main(String[] args) {
+        var name = "Elchin"; // String type
+        var age = 48; // integer type
+        var isUniStudent = false; // boolean type
+        var height = 173.4f; // float type
+        var savingsAccount = 1000; // integer type
+        var monthlySalary = 3000; // integer type
+        var totalBalance = savingsAccount + monthlySalary;
+
+
+        System.out.println("My name is " + name);
+        System.out.println("Age: " + age);
+        System.out.println("Student status: " + isUniStudent);
+        System.out.println("Height in cm: " + height);
+        System.out.println("Savings: " + savingsAccount);
+        System.out.println("Monthly salary: " + monthlySalary);
+        System.out.println(totalBalance + " euros in his bank account");
+    }
+
+}
