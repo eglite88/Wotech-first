@@ -3,7 +3,7 @@ md mean mark down syntax
 
 # Welcome to my repository
 
-My skills: 
+## My skills: 
 -Java
 -Pyton
 -Github
